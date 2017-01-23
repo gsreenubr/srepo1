@@ -1,1 +1,3 @@
 Welcome to Text file 1
+stash change1
+stash change2
